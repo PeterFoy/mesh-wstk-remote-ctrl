@@ -1,0 +1,6 @@
+// Copyright 2019 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild (/home/artur/usr/local/SimplicityStudio_v4/developer/sdks/blemesh/v1.4/protocol/bluetooth/bin/bgbuild)
+
